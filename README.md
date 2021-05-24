@@ -9,4 +9,9 @@
 
              # SUBMIT TO SEE THE OUTPUTS GRAPH
 
-
+Requirement File's :-
+1. tsf.csv
+2. tsf.ipynb
+3. tsf_download.pkl
+4. tsf_flask.py
+5. tsf_html_css.html
